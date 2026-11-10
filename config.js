@@ -12,11 +12,11 @@ window.NOS_CONFIG = {
   // Link de convite do grupo de WhatsApp da aula
   // (ex.: "https://chat.whatsapp.com/XXXXXXXXXXXX").
   // Depois da inscrição a pessoa é levada para ele.
-  whatsappGrupoUrl: "",
+  whatsappGrupoUrl: "https://chat.whatsapp.com/DRhELWRZltiBByKRws5EOm",
 
   // Perfis do Instagram (só o @, sem o símbolo). Vazio = não aparece.
   instagram: {
-    nosEmNos: "",
+    nosEmNos: "soltando.nos",
     ilo: "",
     mari: ""
   }
