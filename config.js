@@ -7,7 +7,7 @@
 window.NOS_CONFIG = {
   // URL do "App da Web" do Google Apps Script (termina em /exec).
   // Passo a passo em docs/google-planilhas.md
-  planilhaUrl: "",
+  planilhaUrl: "https://script.google.com/macros/s/AKfycbxMeFC1U6QM100ugmugJJ0zQbr0-MVGk7UdXd0Yptkqam2-hp7H4BmFH744-Ndbp-I/exec",
 
   // Link de convite do grupo de WhatsApp da aula
   // (ex.: "https://chat.whatsapp.com/XXXXXXXXXXXX").
